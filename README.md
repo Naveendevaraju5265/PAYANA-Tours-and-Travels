@@ -1,4 +1,4 @@
-# PAYANA-Tours-and-Travels (Tours and Travel management system project).
+# PAYANA-Tours-and-Travels (Tours and Travels management system project).
 # abstract:
 Basically this project is developed using java(JDK17).This is a Java-based application designed to facilitate various aspects of travel management, including booking hotels, booking packages, managing customer profiles, and administration tasks. The system provides functionalities for both customers and administrators to interact with the system efficiently.
 # Technologies:
