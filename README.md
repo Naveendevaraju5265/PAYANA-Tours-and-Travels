@@ -6,3 +6,6 @@ Used java swing and AWT(Abstract Window Toolkit) for creating graphical user int
 # Screenshots:
 Welcome Page:
 ![FrontPage](https://github.com/Naveendevaraju5265/PAYANA-Tours-and-Travels/assets/112312436/bbff3b8f-fcf4-4932-a17f-ba18dab1e8d3)
+Home Page:
+![HomePage](https://github.com/Naveendevaraju5265/PAYANA-Tours-and-Travels/assets/112312436/49f2ccbb-bfe7-49e9-ba46-96ba98fd4100)
+AdminLogin:
