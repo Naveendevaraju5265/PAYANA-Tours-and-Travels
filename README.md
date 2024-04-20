@@ -21,7 +21,8 @@ UserProfile:
 AddPackages:
 ![Admin_Packages](https://github.com/Naveendevaraju5265/PAYANA-Tours-and-Travels/assets/112312436/f5d7afc3-bc22-4152-a8e8-d1c3800fc671)
 AddHotels:
-![Admin_Hotels](https://github.com/Naveendevaraju5265/PAYANA-Tours-and-Travels/assets/112312436/cc8c6351-d58b-489c-8580-956ba8f7cc83)
+![Admin_Hotels](https://github.com/Naveendevaraju5265/PAYANA-Tours-and![Total_Customers](https://github.com/Naveendevaraju5265/PAYANA-Tours-and-Travels/assets/112312436/8c63670d-cc91-4bcf-a19f-487c7d00697a)
+-Travels/assets/112312436/cc8c6351-d58b-489c-8580-956ba8f7cc83)
 Bookpackages:
 ![User_Packages](https://github.com/Naveendevaraju5265/PAYANA-Tours-and-Travels/assets/112312436/e4d25d23-4c79-4c99-b7eb-ffcc8207ebdf)
 Bookhotels:
